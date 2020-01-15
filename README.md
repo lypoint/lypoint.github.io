@@ -1,8 +1,3 @@
----
-layout: page
-title: 关于本站
-permalink: /about/
----
 # 源码地址
 [https://github.com/lypoint/lypoint.github.io/](https://github.com/lypoint/lypoint.github.io)
 # 本站地址
@@ -11,8 +6,7 @@ permalink: /about/
 本站使用jekyll生成，放在gitpage托管
 1. 写文章
 2. 执行 jekyll build
-3. 执行 jekyll serve 后，访问[http://localhost:4000/](http://localhost:4000/)进行预览
+3. 执行 jekyll serve 后，访问http://localhost:4000/进行预览
 4. git add .
 5. git commit 
 6. git push
-7. 访问[https://lypoint.github.io/](https://lypoint.github.io/)查看最终效果
